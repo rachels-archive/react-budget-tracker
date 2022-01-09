@@ -53,7 +53,7 @@ function AddExpenseForm() {
 			<div class='row mt-3'>
 				<div class='col-sm'>
 					<button type='submit' class='btn btn-primary'>
-						Save
+						Add
 					</button>
 				</div>
 			</div>
